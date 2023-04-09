@@ -1,0 +1,6 @@
+input: D:\download\ChainsawMan-03.mp4
+output: D:\download\ChainsawMan-03.mp3
+srt_path: D:\download\ChainsawMan-03.srt
+srt_translate_path: D:\download\ChainsawMan-03-zh.srt
+from: ja
+to: zh
