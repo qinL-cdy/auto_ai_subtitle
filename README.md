@@ -1,6 +1,6 @@
 # auto_ai_subtitle
 
-基于openai/whisper、translate、ffmpeg，自动为视频生成翻译过后的srt字幕文件，支持自定义各种语言
+ai字幕生成 基于openai/whisper、translate、ffmpeg，自动为视频生成翻译过后的srt字幕文件，支持自定义各种语言
 
 ## 使用方法
 安装 `ffmpeg`
