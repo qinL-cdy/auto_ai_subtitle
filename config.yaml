@@ -12,3 +12,7 @@ translate_threads: 10
 from: ja
 #翻译目标语言
 to: zh
+#huggingface model地址
+hf_model_path: D:\download\pytorch_model.bin
+#devive:cuda, cpu
+device: cpu

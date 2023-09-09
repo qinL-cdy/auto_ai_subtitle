@@ -11,7 +11,8 @@ if __name__ == '__main__':
     print("audio extract success")
 
     print("whisper begin")
-    whisper_tool.do_whisper(config['output'], config['srt_path'])
+    whisper_tool.do_whisper(config['output'], config['srt_path'], config['from'], config['hf_model_path'],
+                            config['device'])
     print("whisper success")
 
     print("translate begin")
