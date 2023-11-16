@@ -13,6 +13,6 @@ from: ja
 #翻译目标语言
 to: zh
 #huggingface model地址，例如 D:\download\pytorch_model.bin
-hf_model_path: 
+hf_model_path: ""
 #devive: cuda, cpu
 device: cpu
