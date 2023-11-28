@@ -31,3 +31,7 @@ ai字幕生成，字幕翻译 基于openai/whisper、translate、ffmpeg，自动
 添加生成的字幕文件后：
 
 ![img_1.png](img_1.png)
+
+## TODO
+提高结果准确度
+GUI支持
