@@ -34,4 +34,5 @@ ai字幕生成，字幕翻译 基于openai/whisper、translate、ffmpeg，自动
 
 ## TODO
 提高结果准确度
+
 GUI支持
